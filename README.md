@@ -1,7 +1,7 @@
 # Auto-ARKit-UE-Shapekeys
 Vibecoded script that automatically adds empty Shapekeys to a mesh in Blender.
 
-Download by [clicking here](https://github.com/9b841f87-49ff-42bb-81da-61e7d1cf8936)
+Download the .py [here](https://github.com/MooshPaw/Auto-ARKit-UE-Shapekeys/releases/latest)
 
 ## What it does?
 * Creates empty shapekeys with either the ARKit or Unified Expressions naming scheme
